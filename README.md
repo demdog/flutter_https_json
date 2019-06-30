@@ -4,4 +4,4 @@ A demo for Flutter https json object reques.
 
 ## Getting Started
 
-[How to](https://www.jianshu.com/p/4269a32f56f7)
+[How to](https://www.jianshu.com/p/4269a32f56f7) use the demo
